@@ -18,4 +18,4 @@ I have produced a portfolio page with my name, avatar, links to sections about m
 ![](assets/Screenshot%202022-10-10%20180700.png)
 ![](assets/Screenshot%202022-10-10%20180727.png)
 
-Live URL of site:
+Live URL of site:  https://mboksh.github.io/Week-2-portfolio-project/
