@@ -14,8 +14,8 @@ With these points in mind, in this Challenge you’ll set yourself up for future
 
 I have produced a portfolio page with my name, avatar, links to sections about me, my work, and how to contact me. Links in the navigation bar takes you to the corresponding section. The first application is larger in size than the others. When the image is clicked then you are taken to my repository for the project. When the page is resized, then the page is responsive and adapts to the viewport.
 
-![](assets/Screenshot%202022-10-10%20180700.png)
 ![](assets/Screenshot%202022-10-10%20180623.png)
+![](assets/Screenshot%202022-10-10%20180700.png)
 ![](assets/Screenshot%202022-10-10%20180727.png)
 
 Live URL of site:
