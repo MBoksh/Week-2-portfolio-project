@@ -36,6 +36,10 @@ body {
   color: rgb(57, 122, 242);
 }
 
+main {
+    /* display: flex; */
+    
+}
 
 a {
     text-decoration: none;
@@ -76,10 +80,12 @@ p {
 .calculator {
     height: 450px;
     width: 550px;
-    
+    flex: 2 1 200px;
+    display: inline;
 }
 
 .tic-tac-toe {
+    flex: 1 0 200px;
     display: inline;
     height: 225px;
     width: 275px;
@@ -87,11 +93,58 @@ p {
 }
 
 .weather {
+    flex: 1 0 200px;
     display: inline;
     height: 225px;
     width: 275px;
     border-radius: 10px;
 }
+
+@media screen and (max-width: 992px) {
+    .calc-1 {
+        width: 50%;
+    }
+
+    .tic-1 {
+        width: 50%
+    }
+
+    .weath-1 {
+        width: 50%
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .calc-1 {
+        width: 100%;
+    }
+
+    .tic-1 {
+        width: 100%
+    }
+
+    .weath-1 {
+        width: 100%
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .calc-1 {
+        width: 100%;
+    }
+
+    .tic-1 {
+        width: 100%
+    }
+
+    .weath-1 {
+        width: 100%
+    }
+}
+
+
+
+
 
 .tic-tac-toe-h3 {
 
