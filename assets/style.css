@@ -79,7 +79,7 @@ p {
 
 .calculator {
     height: 450px;
-    width: 550px;
+    width: 475px;
     flex: 2 1 200px;
     display: inline;
 }
@@ -101,6 +101,10 @@ p {
 }
 
 @media screen and (max-width: 992px) {
+    .profile-pic {
+        width: 50%;
+    }
+    
     .calc-1 {
         width: 50%;
     }
@@ -115,6 +119,10 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+    .profile-pic{
+        width: 75%;
+    }
+    
     .calc-1 {
         width: 100%;
     }
@@ -129,6 +137,10 @@ p {
 }
 
 @media screen and (max-width: 576px) {
+    .profile-pic {
+        width: 75%;
+    }
+    
     .calc-1 {
         width: 100%;
     }
@@ -142,17 +154,6 @@ p {
     }
 }
 
-
-
-
-
-.tic-tac-toe-h3 {
-
-}
-
-.weather-h3 {
-
-}
 #contact-me {
     margin-top: 30px;
 }

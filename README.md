@@ -9,3 +9,13 @@ A portfolio of work can showcase your skills and talents to employers looking to
 With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
 # Week-2-portfolio-project
+
+## Criteria Met
+
+I have produced a portfolio page with my name, avatar, links to sections about me, my work, and how to contact me. Links in the navigation bar takes you to the corresponding section. The first application is larger in size than the others. When the image is clicked then you are taken to my repository for the project. When the page is resized, then the page is responsive and adapts to the viewport.
+
+![](assets/Screenshot%202022-10-10%20180700.png)
+![](assets/Screenshot%202022-10-10%20180623.png)
+![](assets/Screenshot%202022-10-10%20180727.png)
+
+Live URL of site:
